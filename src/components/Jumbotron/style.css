@@ -1,0 +1,34 @@
+#hero {
+    background-color: #EAEAEA;
+}
+
+.hero-text {
+    color: #6C757D;
+}
+#profile-img:hover {
+    filter: grayscale(100%);
+}
+
+#head-shad {
+    text-shadow: 4px 4px #ffffff;
+    letter-spacing: 0.2em;
+}
+
+#profile-img {
+    width: 200px;
+}
+
+/* icon styling  */
+.fa-linkedin {
+    color: #007bb5;
+    margin-right: 10px ; 
+} 
+.fa:hover {
+    opacity: 0.7;
+  }
+.fa-github {
+    color: black;
+}
+.fa-chevron-down {
+    color: #6C757D;
+}
