@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "title": "Few Fries Short",
+        "description": "A CMS-style restaurant review website built following the MVC (Model, View, Controller) paradigm. It allows users to create accounts to leave reviews of fast food restaurants. Users can also update, delete reviews, and upload images to the website.",
+        "dep_url": "few-fries-short.herokuapp.com/",
+        "git_url": "https://github.com/AlishaSaleh/Project-2",
+        "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Few-Fries-Short.gif",
+        "img_desc": "Few Fries Short functionality demonstrated"
+    },
+    {
+        "_id": 2,
+        "title": "Tech Blog",
+        "description": "A CMS-style blog website built following the MVC (Model, View, Controller) paradigm. It allows users to create an account, create blog posts, edit and delete blog posts, and comment on blog posts.",
+        "dep_url": "https://alishasaleh-tech-blog.herokuapp.com/",
+        "git_url": "https://github.com/AlishaSaleh/tech-blog",
+        "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Tech-Blog.gif",
+        "img_desc": "Tech Blog functionality demonstrated"
+    },
+    {
+        "_id": 3,
+        "title": "Weather Dashboard",
+        "description": "An application that allows users to search any city and recieve the weather information for that city. It also provides the UV index of searched city with colours depicting whether they are favourable, moderate or severe.",
+        "dep_url": "https://alishasaleh.github.io/weather-dashboard/",
+        "git_url": "https://github.com/AlishaSaleh/weather-dashboard",
+        "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Weather-Dashboard.gif",
+        "img_desc": "Weather Dashboard functionality demonstrated"
+    },
+    {
+        "_id": 4,
+        "title": "Eat-in 'N Drink-in",
+        "description": "An application that allows users to search for recipes according to their dietary restrictions. The user can also pair their food search with a drink. Recipes can be favourited and stored for posterity.",
+        "dep_url": "https://alishasaleh.github.io/eat-in-n-drink-in",
+        "git_url": "https://github.com/AlishaSaleh/eat-in-n-drink-in",
+        "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Eat-in-N-Drink-in.gif",
+        "img_desc": "Eat-in 'N Drink-in functionality demonstrated"
+    },
+    {
+        "_id": 5,
+        "title": "Work Day Planner",
+        "description": "An application that allows users to save tasks into a planner. The planner shows the current time, the past, and the future by colour scale. Once tasks are added to the planner, they persist after page refresh.",
+        "dep_url": "https://alishasaleh.github.io/workday-scheduler/",
+        "git_url": "https://github.com/AlishaSaleh/workday-scheduler",
+        "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Work-Day-Scheduler.gif",
+        "img_desc": "Work Day Planner functionality demonstrated"
+    }
+]
