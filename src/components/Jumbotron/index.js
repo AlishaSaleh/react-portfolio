@@ -10,8 +10,8 @@ function Jumbotron() {
                     <img src="images/face-2015.jpg" className="rounded-circle center p-3 mx-auto d-block" id="profile-img"
                         alt="Responsive image" />
                     <p className="lead text-center hero-text">Birmingham, UK</p>
-                    <hr />
-                    <p className="text-center hero-text">Full Stack Web Development student at the University of Birmingham</p>
+                    <hr className ="col-md-4"/>
+                    <p className="text-center hero-text">Full Stack Web Developer</p>
                     <br />
                     <div className="d-flex justify-content-center">
                         <a href="https://www.linkedin.com/in/alisha-saleh/"><i className="fa fa-linkedin fa-2x"></i></a>
