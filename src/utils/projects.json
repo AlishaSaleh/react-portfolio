@@ -3,7 +3,7 @@
         "_id": 1,
         "title": "Few Fries Short",
         "description": "A CMS-style restaurant review website built following the MVC (Model, View, Controller) paradigm. It allows users to create accounts to leave reviews of fast food restaurants. Users can also update, delete reviews, and upload images to the website.",
-        "dep_url": "few-fries-short.herokuapp.com/",
+        "dep_url": "https://few-fries-short.herokuapp.com",
         "git_url": "https://github.com/AlishaSaleh/Project-2",
         "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Few-Fries-Short.gif?raw=true",
         "img_desc": "Few Fries Short functionality demonstrated"
