@@ -6,6 +6,7 @@ import Wrapper from './components/Wrapper';
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
       </Wrapper>
+      <Footer />
       </>
     </Router>
   );
