@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 
 function AboutMe() {
     return (
@@ -22,7 +23,9 @@ function AboutMe() {
                         course.
                         I am currently developing a strong portfolio of web projects, some of which have been
                         included on my portfolio
-                        page!
+                        page! <br/><br/>
+
+                        <a id="cv-ref" href="https://docs.google.com/document/d/1RrFUOhl2w2E-LnDYq6VuPePUpneb5pIUMwg6-0J4PNI/edit">Click here to view my CV!</a>
 
                     </p>
 
