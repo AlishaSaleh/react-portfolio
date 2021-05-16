@@ -2,6 +2,12 @@
   font-family: 'Noto Serif', serif;
 }
 
+body {
+  background-image: url("https://github.com/AlishaSaleh/responsivedesign/blob/main/images/bg-pattern.jpg?raw=true");
+  background-size: cover;
+}
+
+
 .fade-in {
   animation: fadeIn ease 1.5s;
   -webkit-animation: fadeIn ease 1.5s;
