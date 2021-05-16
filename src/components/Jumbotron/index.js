@@ -7,8 +7,8 @@ function Jumbotron() {
             <div className="jumbotron" id="hero">
                 <div className="fade-in">
                     <h4 className="display-4 text-center" id="head-shad">Alisha Saleh</h4>
-                    <img src="images/face-2015.jpg" className="rounded-circle center p-3 mx-auto d-block" id="profile-img"
-                        alt="Responsive image" />
+                    <img src="https://github.com/AlishaSaleh/responsivedesign/blob/main/images/face-2015.jpg?raw=true" className="rounded-circle center p-3 mx-auto d-block" id="profile-img"
+                        alt="Alisha Saleh" />
                     <p className="lead text-center hero-text">Birmingham, UK</p>
                     <hr className ="col-md-4"/>
                     <p className="text-center hero-text">Full Stack Web Developer</p>
