@@ -13,13 +13,13 @@ This portfolio has been created using the React framework. It uses React Router 
 
 ## Deployed URL
 
-[Click here for the deployed link!]()
+[Click here for the deployed link!](https://alishasaleh.github.io/react-portfolio/#/)
 
 ## Usage
 
-This gif demonstrates the application's functionality:
+A screenshot of the Portfolio page:
 
-![Employee Directory functionality]()
+![Portfolio page screenshot](https://user-images.githubusercontent.com/74827217/118405433-ceacfa80-b66f-11eb-83a7-cc898cc4e0e4.png)
 
 ## License
 
