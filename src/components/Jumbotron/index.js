@@ -19,7 +19,7 @@ function Jumbotron() {
                     </div>
                     <br />
                     <div className="d-flex justify-content-center">
-                        <a href="#about-me"><i className="fa fa-chevron-down fa-3x"></i></a>
+                        <i className="fa fa-chevron-down fa-3x"></i>
                     </div>
                 </div>
             </div>
