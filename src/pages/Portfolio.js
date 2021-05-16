@@ -1,10 +1,12 @@
 import React from "react";
 import Card from "../components/Card";
+import Header from "../components/Header"
 import projects from "../utils/projects.json";
 
 function Portfolio() {
     return (
         <>
+        <Header page="Portfolio" />
             <div class="container fade-in">
                 <div class="row mt-4">
                     {projects.map(project => (

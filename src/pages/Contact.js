@@ -1,8 +1,10 @@
 import React from "react";
+import Header from "../components/Header"
 
 function Contact() {
     return (
         <>
+        <Header page="Contact" />
          <div className="container text-white mt-5 fade-in">
             <div className="row">
                 <div className="col-sm-8 bg-secondary p-3 rounded">
