@@ -46,11 +46,11 @@
     },
     {
         "_id": 6,
-        "title": "Fitness Tracker",
-        "description": "An application that allows users to track workouts. Uses MongoDB through Mongoose to store and retrive information on exercises.",
-        "dep_url": "https://workout-tracker-as.herokuapp.com/",
-        "git_url": "https://github.com/AlishaSaleh/workout-tracker",
-        "img": "https://github.com/AlishaSaleh/workout-tracker/blob/main/assets/Fitness-Tracker.gif?raw=true",
-        "img_desc": "Fitness Tracker functionality demonstrated"
+        "title": "Book Search",
+        "description": "This Google Books Search app is built in React and allows users to search books via the Google Books API and save them to view later using MongoDB database storage. Once saved, the books can also be deleted from the 'Saved' page.",
+        "dep_url": "https://react-book-search-as.herokuapp.com/",
+        "git_url": "https://github.com/AlishaSaleh/book-search",
+        "img": "https://user-images.githubusercontent.com/74827217/119231008-9cd7e000-bb16-11eb-9931-18ec7654a453.gif?raw=true",
+        "img_desc": "Book Search functionality demonstrated"
     }
 ]
