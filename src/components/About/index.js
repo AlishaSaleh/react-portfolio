@@ -25,7 +25,7 @@ function AboutMe() {
                         included on my portfolio
                         page! <br/><br/>
 
-                        <a id="cv-ref" href="https://docs.google.com/document/d/1RrFUOhl2w2E-LnDYq6VuPePUpneb5pIUMwg6-0J4PNI/edit">Click here to view my CV!</a>
+                        <a id="cv-ref" href="https://docs.google.com/document/d/10GrT73-yBTW7Vf25WNqfnIDImRAYSESd7MNeAWs63_g/edit?usp=sharing">Click here to view my CV!</a>
 
                     </p>
 

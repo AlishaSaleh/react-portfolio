@@ -1,8 +1,17 @@
 [
     {
+        "_id": 6,
+        "title": "Music To My Eyes",
+        "description": "A dating app that allows users to match based on music interests. Built in MERN stack and uses Spotify API for track information. Users can create and update their profile, search and add songs and match with potential suitors.",
+        "dep_url": "https://music-to-my-eyes.herokuapp.com/",
+        "git_url": "https://github.com/AlishaSaleh/music-to-my-eyes",
+        "img": "https://user-images.githubusercontent.com/74827217/122554473-f1e11600-d030-11eb-989f-b079c828411b.gif?raw=true",
+        "img_desc": "Music To My Eyes functionality demonstrated"
+    },
+    {
         "_id": 1,
         "title": "Few Fries Short",
-        "description": "A CMS-style restaurant review website built following the MVC (Model, View, Controller) paradigm. It allows users to create accounts to leave reviews of fast food restaurants. Users can also update, delete reviews, and upload images to the website.",
+        "description": "A CMS-style restaurant review website built following the MVC paradigm. It allows users to create accounts to leave reviews of fast food restaurants. Users can also update, delete reviews, and upload images to the website.",
         "dep_url": "https://few-fries-short.herokuapp.com",
         "git_url": "https://github.com/AlishaSaleh/Project-2",
         "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Few-Fries-Short.gif?raw=true",
@@ -43,14 +52,5 @@
         "git_url": "https://github.com/AlishaSaleh/workday-scheduler",
         "img": "https://github.com/AlishaSaleh/responsivedesign/blob/main/images/Work-Day-Scheduler.gif?raw=true",
         "img_desc": "Work Day Planner functionality demonstrated"
-    },
-    {
-        "_id": 6,
-        "title": "Book Search",
-        "description": "This Google Books Search app is built in React and allows users to search books via the Google Books API and save them to view later using MongoDB database storage. Once saved, the books can also be deleted from the 'Saved' page.",
-        "dep_url": "https://react-book-search-as.herokuapp.com/",
-        "git_url": "https://github.com/AlishaSaleh/book-search",
-        "img": "https://user-images.githubusercontent.com/74827217/119231008-9cd7e000-bb16-11eb-9931-18ec7654a453.gif?raw=true",
-        "img_desc": "Book Search functionality demonstrated"
     }
 ]
